@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hey, CSSR team help me write some code.");
         System.out.println("hi");
         System.out.println("whats up");
+        System.out.println("YEEEERRRRRRR!");
     }
 }
