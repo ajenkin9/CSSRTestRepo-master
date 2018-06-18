@@ -12,5 +12,6 @@ public class Main {
         System.out.println("whats up");
         System.out.println("YEEEERRRRRRR!");
         System.out.println("WUS POPPIN JIMBO");
+        System.out.println("My name is Thanh***");
     }
 }
