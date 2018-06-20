@@ -14,7 +14,7 @@ public class Main {
         System.out.println("WUS POPPIN JIMBO");
         System.out.println("My name is Thanh***");
         System.out.println("JoQui$e, we really live in a society.....");
-
+        System.out.println("BLATTATTATTTBLAATTATATATATTT");
         System.out.println("\nHi, Is Ray!");
     }
 }
